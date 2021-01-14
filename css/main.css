@@ -1088,12 +1088,12 @@ header {
 
 @media screen and (max-width: 500px) {
   .menu-btn {
-    right: 25px;
+    right: 20px;
     top: 25px;
     cursor: pointer;
     transition: all 0.35s ease-out; }
   .menu {
-    padding: .2em 0 0 1.8em; }
+    padding: .2em 0 0 1.5em; }
     .menu-branding {
       float: left;
       width: 100%; }
@@ -1116,7 +1116,7 @@ header {
   #subscribe-form {
     width: 88%; }
     #subscribe-form .form-card .subscribe-why {
-      padding: .3em; }
+      padding: 0; }
     #subscribe-form .form-card .subscribe-title {
       font-size: 1rem; }
   #course .course-platform {
@@ -1167,4 +1167,4 @@ header {
       .footer #footer-container .lang-social .nav-lang {
         font-size: .8rem;
         font-weight: 700;
-        padding: 0 1em 0 0; } }
+        padding: 0 3em 0 0; } }
