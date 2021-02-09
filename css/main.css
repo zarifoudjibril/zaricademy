@@ -366,12 +366,13 @@ header {
       color: #143774; }
   .menu .menu-branding {
     position: relative; }
-    .menu .menu-branding .logo {
-      a { img { 
+.menu .menu-branding .logo a img {
+
         width: 217px; 
         height: 53px;
-        }
-      }
+      
+}
+    .menu .menu-branding .logo {
       padding: 0 1.5em 0 0; }
       .menu .menu-branding .logo a:hover {
         border: none; }
