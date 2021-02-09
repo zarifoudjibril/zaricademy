@@ -367,6 +367,11 @@ header {
   .menu .menu-branding {
     position: relative; }
     .menu .menu-branding .logo {
+      a { img { 
+        width: 217px; 
+        height: 53px;
+        }
+      }
       padding: 0 1.5em 0 0; }
       .menu .menu-branding .logo a:hover {
         border: none; }
