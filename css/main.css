@@ -904,7 +904,6 @@ header {
             color: #143774; }
   .menu-mobile.show {
     position: absolute;
-    z-index: 3;
     top: 67.49px;
     left: 0;
     display: flex;
@@ -920,9 +919,6 @@ header {
     .menu-branding {
       float: left;
       width: 100%; }
-      .menu-branding .logo a img {
-        z-index: 3;
-        box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2); }
     .menu-nav {
       display: none; }
     .menu .nav-item {
